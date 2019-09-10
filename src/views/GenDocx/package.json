@@ -1,0 +1,6 @@
+{
+  "name": "GenDocx",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./GenDocx.js"
+}
